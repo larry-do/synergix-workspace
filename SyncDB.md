@@ -43,7 +43,7 @@ Example as Project Team DBs
 12. Run `batchrun.bat`
 13. Enter
 	COMMAND: `sync`
-	SCHEMA: `modmain`
+	SCHEMA: `modmain` or `modctrl`
 	DATABASE: `{db_alias}`
 14. Wait to complete.
 15. Common issues:
