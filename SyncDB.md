@@ -37,8 +37,8 @@ Example as Project Team DBs
 7. Go to `{your-checkout-path}\SourceCode\Releases\ExportSchemaApp\stable`
 8. Double click to run `runGUI.bat` (or can run cmd `java -jar ExportSchemaApp.jar`)
 9. (If use GUI) Select 	Schema Path: `{your-th6-project-path}\\TH6\\src\\main\\resources\\synergix\\th6\\data\\meta`
-			Output: `{your-SuperModel-checkout-path}\\dist`
-10. (If use GUI) Click Export and wait until complete
+			Output: `{your-SuperModel-checkout-path}\\dist` and click Export
+10. Wait until complete
 11. Go to `{your-SuperModel-checkout-path}\dist`
 12. Run `batchrun.bat`
 13. Enter
