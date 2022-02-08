@@ -36,9 +36,9 @@ Example as Project Team DBs
 7. MUST UPDATE SuperModel BEFORE SYNC DB
 7. Go to `{your-checkout-path}\SourceCode\Releases\ExportSchemaApp\stable`
 8. Double click to run `runGUI.bat` (or can run cmd `java -jar ExportSchemaApp.jar`)
-9. Select 	Schema Path: `{your-th6-project-path}\\TH6\\src\\main\\resources\\synergix\\th6\\data\\meta`
+9. (If use GUI) Select 	Schema Path: `{your-th6-project-path}\\TH6\\src\\main\\resources\\synergix\\th6\\data\\meta`
 			Output: `{your-SuperModel-checkout-path}\\dist`
-10. Click Export and wait until complete
+10. (If use GUI) Click Export and wait until complete
 11. Go to `{your-SuperModel-checkout-path}\dist`
 12. Run `batchrun.bat`
 13. Enter
