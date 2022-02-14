@@ -1,4 +1,4 @@
-BEFORE SYNC DATABASE, PLEASE INFORM IN PJ GROUP. SYNCHONIZING DATABASE CAUSES EVERYONE CAN NOT USE ANYTHING DURING PERFORMING.
+BEFORE SYNC DATABASE, PLEASE INFORM IN PJ GROUP. SYNCHRONIZING DATABASE CAUSES EVERYONE CAN NOT USE ANYTHING DURING PERFORMING.
 1. Checkout svn path: `https://svn.synergixtech.com/svn/SuperModel`
 2. Go to `{your-checkout-path}\SourceCode\Releases\ExportSchemaApp\stable`
 3. Open `settings.ini` and change these values
